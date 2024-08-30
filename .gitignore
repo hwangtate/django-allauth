@@ -1,0 +1,11 @@
+.idea/
+
+.env
+
+coreapp/__pycache__/*
+Coreapp/__pycache__/*
+__pycache__/
+
+*.pyc
+
+poetry.lock
